@@ -1,0 +1,41 @@
+{
+	"title": "ADV Sample Teams",
+	"items": [
+		{
+			"item": "Ubers",
+			"url": "https://www.smogon.com/roa/?format=gen3ubers"
+		},
+		{
+			"item": "OU",
+			"url": "https://www.smogon.com/forums/threads/adv-ou-sample-teams-and-team-dumps.3687813/"
+		},
+		{
+			"item": "UU",
+			"url": "https://www.smogon.com/roa/?format=gen3uu"
+		},
+		{
+			"item": "NU",
+			"url": "https://www.smogon.com/roa/?format=gen3nu"
+		},
+		{
+			"item": "PU",
+			"url": "https://www.smogon.com/roa/?format=gen3pu"
+		},
+		{
+			"item": "ZU",
+			"url": "https://www.smogon.com/roa/?format=gen3zu"
+		},
+		{
+			"item": "LC",
+			"url": "https://www.smogon.com/forums/threads/adv-lc.3722418/"
+		},
+		{
+			"item": "1v1",
+			"url": "https://www.smogon.com/roa/?format=gen31v1"
+		},
+		{
+			"item": "Doubles OU",
+			"url": "https://www.smogon.com/forums/threads/adv-doubles.3666831/"
+		}
+	]
+}

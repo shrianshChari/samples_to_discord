@@ -1,0 +1,49 @@
+{
+	"title": "ORAS Sample Teams",
+	"items": [
+		{
+			"item": "Ubers",
+			"url": "https://www.smogon.com/roa/?format=gen6ubers"
+		},
+		{
+			"item": "OU",
+			"url": "https://www.smogon.com/forums/threads/oras-ou-sample-teams.3694551/"
+		},
+		{
+			"item": "UU",
+			"url": "https://www.smogon.com/roa/?format=gen6uu"
+		},
+		{
+			"item": "RU",
+			"url": "https://www.smogon.com/roa/?format=gen6ru"
+		},
+		{
+			"item": "NU",
+			"url": "https://www.smogon.com/roa/?format=gen6nu"
+		},
+		{
+			"item": "PU",
+			"url": "https://www.smogon.com/roa/?format=gen6pu"
+		},
+		{
+			"item": "ZU",
+			"url": "https://www.smogon.com/roa/?format=gen6zu"
+		},
+		{
+			"item": "LC",
+			"url": "https://www.smogon.com/roa/?format=gen6lc"
+		},
+		{
+			"item": "Monotype",
+			"url": "https://www.smogon.com/roa/?format=gen6monotype"
+		},
+		{
+			"item": "1v1",
+			"url": "https://www.smogon.com/roa/?format=gen61v1"
+		},
+		{
+			"item": "Doubles OU",
+			"url": "https://www.smogon.com/forums/threads/xy-doubles-ou-vr-post-2-samples-post-3.3606255/post-7387215"
+		}
+	]
+}

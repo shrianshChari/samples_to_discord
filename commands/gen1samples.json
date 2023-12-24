@@ -1,0 +1,41 @@
+{
+	"title": "RBY Sample Teams",
+	"items": [
+		{
+			"item": "Ubers",
+			"url": "https://www.smogon.com/roa/?format=gen1ubers"
+		},
+		{
+			"item": "OU",
+			"url": "https://www.smogon.com/forums/threads/rby-ou-sample-teams.3689726/"
+		},
+		{
+			"item": "UU",
+			"url": "https://www.smogon.com/roa/?format=gen1uu"
+		},
+		{
+			"item": "NU",
+			"url": "https://www.smogon.com/roa/?format=gen1nu"
+		},
+		{
+			"item": "LC",
+			"url": "https://www.smogon.com/roa/?format=gen1lc"
+		},
+		{
+			"item": "Monotype",
+			"url": "https://www.smogon.com/roa/?format=gen1monotype"
+		},
+		{
+			"item": "1v1",
+			"url": "https://www.smogon.com/roa/?format=gen11v1"
+		},
+		{
+			"item": "Stadium OU",
+			"url": "https://www.smogon.com/roa/?format=gen1stadiumou"
+		},
+		{
+			"item": "Tradebacks OU",
+			"url": "https://www.smogon.com/roa/?format=gen1tradebacksou"
+		}
+	]
+}
