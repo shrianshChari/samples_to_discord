@@ -7,5 +7,5 @@ PU: https://www.smogon.com/roa/?format=gen4pu
 ZU: https://www.smogon.com/roa/?format=gen4zu
 LC: https://www.smogon.com/roa/?format=gen4lc
 Monotype: https://www.smogon.com/roa/?format=gen4monotype
-1v1: https://www.smogon.com/roa/?format=gen41v1
+1v1: https://www.smogon.com/forums/threads/1v1-old-gens.3646875/post-8031462
 Doubles OU: https://www.smogon.com/forums/threads/dpp-doubles-ou.3717286/post-9528606

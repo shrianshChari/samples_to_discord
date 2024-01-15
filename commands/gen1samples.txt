@@ -6,6 +6,6 @@ NU: https://www.smogon.com/roa/?format=gen1nu
 PU: https://www.smogon.com/forums/threads/rby-pu-hub.3700527/
 LC: https://www.smogon.com/roa/?format=gen1lc
 Monotype: https://www.smogon.com/roa/?format=gen1monotype
-1v1: https://www.smogon.com/roa/?format=gen11v1
+1v1: https://www.smogon.com/forums/threads/1v1-old-gens.3646875/post-8031468
 Stadium OU: https://www.smogon.com/roa/?format=gen1stadiumou
 Tradebacks OU: https://www.smogon.com/roa/?format=gen1tradebacksou
