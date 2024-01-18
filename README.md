@@ -38,3 +38,8 @@ Note that many resources on the forums will be outdated because of the Indigo Di
 - Each line can be separated into a "Resource Name: Link" format. The "Resource Name" part is bolded and the link is modified so that Smogon threads aren't as long and most websites (except for Discord invites) cannot display embeds for conciseness.
 - If a line doesn't follow this format, it is left untouched.
 - Finally, it gives a timestamp to signify when the command was run, to give a sense of when the resources were last updated.
+
+### Smogon Discord
+https://discord.gg/smogon
+
+Feel free to ping me (`@tbolt__`) if you have questions about how I format text!
