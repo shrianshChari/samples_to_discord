@@ -1,9 +1,7 @@
-This week is Battle Stadium Singles (BSS) Regulation F Week! Here's some resources to help you get into the tier!
-BSS Viability Rankings: https://www.smogon.com/forums/threads/3717293/
-BSS Simple Questions and Answers: https://www.smogon.com/forums/threads/3712420/
-BSS Sample Teams by DerpySux: 
-https://pokepast.es/0549d2b1dfd5cebe
-https://pokepast.es/33520d726660ee7c
-https://pokepast.es/21a89f4d26f59536
-BSS PS! Room: https://play.pokemonshowdown.com/battlespot
-BSS Discord: https://discord.gg/k8XdNTxGPx
+This week is SV Random Battles Week! Here's some resources to help you get more informed about the tier!
+How Random Battles Works: https://www.smogon.com/forums/threads/questions-about-how-random-battles-works-read-here.3712694/
+Simple Questions, Simple Answers: https://www.smogon.com/forums/threads/simple-questions-simple-answers-random-battles-edition.3678460/
+Random Battles Win Rates: https://www.smogon.com/forums/threads/random-battles-level-balancing.3721211/
+Random Battles Tools: https://www.smogon.com/forums/threads/random-battles-resources.3678461/#post-9681283
+Random Battles Damage Calculator: https://calc.pokemonshowdown.com/randoms.html?mode=randoms
+PS! Room: https://play.pokemonshowdown.com/randombattles
