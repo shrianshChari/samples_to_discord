@@ -1,7 +1,7 @@
-This week is SV Random Battles Week! Here's some resources to help you get more informed about the tier!
-How Random Battles Works: https://www.smogon.com/forums/threads/questions-about-how-random-battles-works-read-here.3712694/
-Simple Questions, Simple Answers: https://www.smogon.com/forums/threads/simple-questions-simple-answers-random-battles-edition.3678460/
-Random Battles Level Balancing: https://www.smogon.com/forums/threads/random-battles-level-balancing.3721211/
-Random Battles Tools: https://www.smogon.com/forums/threads/random-battles-resources.3678461/#post-9681283
-Random Battles Damage Calculator: https://calc.pokemonshowdown.com/randoms.html?mode=randoms
-PS! Room: https://play.pokemonshowdown.com/randombattles
+This week is Gen 9 National Dex OU Week! Here's some resources to help you get into the tier!
+SV National Dex OU Viability Rankings: https://www.smogon.com/forums/threads/3714511/
+SV National Dex OU Sample Teams: https://www.smogon.com/forums/threads/3714863/
+SV National Dex OU Speed Tiers: https://www.smogon.com/forums/threads/3711130/
+SV National Dex OU Analyses: https://www.smogon.com/dex/sv/formats/national-dex/
+SV National Dex OU PS! Room: https://play.pokemonshowdown.com/nationaldexou
+SV National Dex Discord: https://discord.com/invite/EZmRZQV
