@@ -1,4 +1,7 @@
 # Tbolt's SmogCord Resources Formatting Tool
+
+Edit March 26, 2026: Since the time these scripts were in use, the Smogon Discord has transitioned to using a programmatic system to manage samples and other resources. This repo is henceforth obsolete.
+
 It's a Python script that will turn this:
 
 ```
